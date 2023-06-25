@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kickback-app/common/log"
-	"github.com/kickback-app/common/twilio"
+	"github.com/gia-app/common/log"
+	"github.com/gia-app/common/twilio"
 	"github.com/stretchr/testify/require"
 	twilioapi "github.com/twilio/twilio-go/rest/api/v2010"
 	openapi "github.com/twilio/twilio-go/rest/verify/v2"

@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kickback-app/common/sqs"
+	"github.com/gia-app/common/sqs"
 	"github.com/stretchr/testify/require"
 )
 

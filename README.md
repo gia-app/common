@@ -1,9 +1,8 @@
 # Common
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/kickback-app/common/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/kickback-app/common/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/gia-app/common/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/gia-app/common/tree/main)
 
-reusable clients across different microservices in Kickback. I attempted to make them as
-generic as possible so that they may be of use to others. 
+reusable clients across different microservices.
 
 ### Requests
 Inspired by the [imroc/req](https://github.com/imroc/req) library but I did not like how they supported testing.

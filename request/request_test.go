@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kickback-app/common/mocks"
-	"github.com/kickback-app/common/request"
+	"github.com/gia-app/common/mocks"
+	"github.com/gia-app/common/request"
 	"github.com/stretchr/testify/require"
 )
 

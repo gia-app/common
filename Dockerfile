@@ -1,6 +1,6 @@
 FROM golang:1.18
 
-WORKDIR /go/src/kickback-app/common
+WORKDIR /go/src/gia-app/common
 
 COPY . .
 

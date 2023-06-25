@@ -1,6 +1,6 @@
 test:
-	docker build -t kickback-common-tester .
-	docker run --rm kickback-common-tester
+	docker build -t gia-common-tester .
+	docker run --rm gia-common-tester
 
 coverage-report:
 	go test -v -coverprofile cover.out ./...
