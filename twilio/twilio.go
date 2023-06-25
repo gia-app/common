@@ -9,8 +9,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/kickback-app/common/log"
-	"github.com/kickback-app/common/utils/gsmutils"
+	"github.com/gia-app/common/log"
+	"github.com/gia-app/common/utils/gsmutils"
 	"github.com/twilio/twilio-go"
 	twilioapi "github.com/twilio/twilio-go/rest/api/v2010"
 	openapi "github.com/twilio/twilio-go/rest/verify/v2"

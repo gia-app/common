@@ -1,4 +1,4 @@
-module github.com/kickback-app/common
+module github.com/gia-app/common
 
 go 1.18
 

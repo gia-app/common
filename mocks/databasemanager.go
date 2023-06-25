@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/kickback-app/common/log"
-	"github.com/kickback-app/common/storage"
+	"github.com/gia-app/common/log"
+	"github.com/gia-app/common/storage"
 )
 
 type MockDecoder struct {
