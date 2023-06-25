@@ -1,6 +1,6 @@
 # Common
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/gia-app/common/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/gia-app/common/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/gia-app/common/tree/main.svg?style=svg&circle-token=b80087cad37185a8d03109b6df9424988918dccc)](https://dl.circleci.com/status-badge/redirect/gh/gia-app/common/tree/main)
 
 reusable clients across different microservices.
 
